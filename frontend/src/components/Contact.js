@@ -191,7 +191,7 @@ const Contact = () => {
               {/* Response Time */}
               <div className="glass-card p-6 rounded-2xl">
                 <div className="flex items-start space-x-4">
-                  <div className="p-3 bg-gradient-to-br from-orange-500 to-red-500 rounded-xl flex-shrink-0">
+                  <div className="p-3 bg-gradient-to-br from-indigo-500 to-blue-500 rounded-xl flex-shrink-0">
                     <Clock className="w-6 h-6 text-white" />
                   </div>
                   <div>
