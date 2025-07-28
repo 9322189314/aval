@@ -61,11 +61,11 @@ const Hero = () => {
             
             {/* Floating Elements */}
             <div className="absolute -top-4 -right-4 glass-card p-4 float-animation">
-              <Globe className="w-8 h-8 text-green-400" />
+              <Globe className="w-8 h-8 text-blue-400" />
             </div>
             
             <div className="absolute -bottom-4 -left-4 glass-card p-4 float-animation" style={{animationDelay: '2s'}}>
-              <Zap className="w-8 h-8 text-blue-400" />
+              <Zap className="w-8 h-8 text-cyan-400" />
             </div>
           </div>
         </div>
