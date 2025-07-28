@@ -93,10 +93,10 @@ body {
 }
 
 .btn-transparent:hover {
-  background: rgba(160, 172, 173, 0.3);
-  border-color: rgba(160, 172, 173, 0.5);
+  background: rgba(59, 130, 246, 0.3);
+  border-color: rgba(59, 130, 246, 0.5);
   transform: translateY(-2px);
-  box-shadow: 0 10px 25px rgba(0, 0, 0, 0.3);
+  box-shadow: 0 10px 25px rgba(59, 130, 246, 0.2);
 }
 
 /* Gradient Text */
