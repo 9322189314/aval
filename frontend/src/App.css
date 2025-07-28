@@ -18,7 +18,7 @@ body {
 
 .App {
   min-height: 100vh;
-  background: linear-gradient(135deg, #000000 0%, #170312 25%, #33032F 50%, #170312 75%, #000000 100%);
+  background: linear-gradient(135deg, #000000 0%, #0a1a2a 25%, #1e3a8a 50%, #0a1a2a 75%, #000000 100%);
   position: relative;
 }
 
@@ -30,9 +30,9 @@ body {
   width: 100%;
   height: 100%;
   background: 
-    radial-gradient(circle at 20% 20%, rgba(83, 18, 83, 0.3) 0%, transparent 50%),
-    radial-gradient(circle at 80% 80%, rgba(51, 3, 47, 0.3) 0%, transparent 50%),
-    radial-gradient(circle at 40% 60%, rgba(23, 3, 18, 0.3) 0%, transparent 50%);
+    radial-gradient(circle at 20% 20%, rgba(30, 58, 138, 0.4) 0%, transparent 50%),
+    radial-gradient(circle at 80% 80%, rgba(59, 130, 246, 0.3) 0%, transparent 50%),
+    radial-gradient(circle at 40% 60%, rgba(37, 99, 235, 0.3) 0%, transparent 50%);
   pointer-events: none;
   z-index: -1;
 }
