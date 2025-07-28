@@ -168,7 +168,7 @@ const Contact = () => {
                   className="glass-card p-6 rounded-2xl hover:scale-105 transition-all duration-300"
                 >
                   <div className="flex items-start space-x-4">
-                    <div className="p-3 bg-gradient-to-br from-green-500 to-teal-500 rounded-xl flex-shrink-0">
+                    <div className="p-3 bg-gradient-to-br from-blue-500 to-cyan-500 rounded-xl flex-shrink-0">
                       <div className="text-white">
                         {info.icon}
                       </div>
