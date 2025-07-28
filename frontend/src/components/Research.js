@@ -63,7 +63,7 @@ const Research = () => {
                 {/* Paper Content */}
                 <div className="lg:col-span-2">
                   <div className="flex items-start space-x-4 mb-4">
-                    <div className="p-3 bg-gradient-to-br from-blue-500 to-purple-500 rounded-xl">
+                    <div className="p-3 bg-gradient-to-br from-blue-500 to-cyan-500 rounded-xl">
                       <BookOpen className="w-6 h-6 text-white" />
                     </div>
                     <div className="flex-1">
