@@ -103,7 +103,7 @@ const Research = () => {
                     <div className="space-y-4">
                       {/* Category */}
                       <div className="text-center">
-                        <div className="w-full py-2 bg-gradient-to-r from-green-500 to-teal-500 rounded-lg text-white font-medium text-sm">
+                        <div className="w-full py-2 bg-gradient-to-r from-blue-500 to-cyan-500 rounded-lg text-white font-medium text-sm">
                           {paper.category}
                         </div>
                       </div>
